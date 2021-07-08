@@ -1,6 +1,5 @@
 import streamlit as st
 import joblib
-import os
 import tensorflow as tf
 
 # Defining Model Parameters
